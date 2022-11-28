@@ -86,13 +86,11 @@ In both the work and personal folders create `.gitconfig` files with the followi
   >     email = user1@gmail.com
   >```
 
-  > `git clone git@github.com-user1:user1/your-repo-name.git your-repo-name_user1`
-
 ## 5. Clone repos:
 
 Be sure to use the correct format when cloning
 
-  > `git clone git@github.com-user1:user1/your-repo-name.git your-repo-name_user1`
+  > `git clone git@github.com-user1:user1/your-repo-name.git`
 
 
 ## 6. Ensure your remote url is in the right format e.g: 
