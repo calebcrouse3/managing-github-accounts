@@ -1,5 +1,5 @@
 # managing-github-accounts
-How to work with repos associated with multiple github accounts
+How to work with repos associated with different github accounts on one machine
 
 # Handling Multiple Github Accounts on MacOS
 
